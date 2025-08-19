@@ -31,13 +31,13 @@ body {background-color: #FAD4FF;}
     background-color: rgb(207, 207, 207);
 }
 
-.fun {
+#fun {
     margin: 20px;
     text-decoration: none;
     color: #7A02BA;
 }
 
-.fun:hover {
+#fun:hover {
     color: #842bb4;
 }
 
